@@ -1,1 +1,1 @@
-cfg_update_everything && brew_update_everything && emacs_update_everything && chezmoi -v update
+echo "cfg_update_everything && brew_update_everything && emacs_update_everything && chezmoi -v update"
