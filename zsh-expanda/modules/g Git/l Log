@@ -1,0 +1,1 @@
+echo "git log --pretty=\"format:'%h %an : %s %d'\" --graph"
