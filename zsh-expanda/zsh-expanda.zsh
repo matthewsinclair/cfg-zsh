@@ -12,6 +12,7 @@ zsh-expanda() {
   else
     while true; do
       # No clear here for less disruption
+      print ''
       ls -1 $target
 
       read -k LETTER
