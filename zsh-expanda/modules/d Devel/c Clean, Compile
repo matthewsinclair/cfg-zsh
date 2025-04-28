@@ -1,0 +1,1 @@
+echo "mix clean && mix compile --force --warnings-are-errors"

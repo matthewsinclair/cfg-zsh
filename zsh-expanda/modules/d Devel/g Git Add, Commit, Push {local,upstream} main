@@ -1,0 +1,1 @@
+echo "mix format && git add . ; git commit -am \"\" ; git push local main; git push upstream main"
